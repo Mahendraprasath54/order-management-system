@@ -23,5 +23,5 @@ class MakeOrder {
     }
 }
 
-module.exports = {MakeOrder};
+module.exports = MakeOrder;
 

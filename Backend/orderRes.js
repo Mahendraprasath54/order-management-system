@@ -5,4 +5,4 @@ class orderRes {
         this.resType = restype;
     }
 }
-module.exports = {orderRes};
+module.exports = orderRes;

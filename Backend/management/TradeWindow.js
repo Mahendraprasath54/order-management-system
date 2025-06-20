@@ -1,5 +1,5 @@
 const Logon = require('../Logon');
-const Logon = require('../Logout');
+const Logout = require('../Logout');
 
 class TradeWindow {
     constructor(startHour, startMin, endHour, endMin)
@@ -31,3 +31,4 @@ class TradeWindow {
   }
     }
 
+module.exports = TradeWindow;
